@@ -1,0 +1,38 @@
+# React Native
+# Mac
+.DS_Store
+
+# Build files
+android/.gradle/
+android/app/build/
+android/app/src/main/res/raw/rn-generated/
+ios/Pods/
+ios/Runner.xcworkspace/xcuserdata/
+ios/build/
+*.xcuserstate
+
+# Node modules
+node_modules/
+
+# Metro bundler
+.babelrc
+metro.config.js
+npm-debug.log
+yarn-error.log
+
+# Expo files (if using Expo)
+.expo/
+.expo-shared/
+
+# IDE files
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.iml
+
+# Log files
+*.log
+
+# Environment variables
+.env
